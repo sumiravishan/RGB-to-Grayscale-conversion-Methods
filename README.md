@@ -1,1 +1,0 @@
-# RGB-to-Grayscale-conversion-Methods
